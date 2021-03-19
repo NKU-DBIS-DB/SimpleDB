@@ -3,6 +3,7 @@
 bin/
 dist/
 output/
+out/
 log
 
 .idea
